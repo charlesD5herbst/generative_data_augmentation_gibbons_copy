@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sonic-visualiser>
+<sv>
+  <data>
+    <model id="1" name="" sampleRate="9600" start="0" end="39238656" type="sparse" dimensions="2" resolution="1" notifyOnAdd="true" dataset="0" subtype="box" minimum="0" maximum="4800.0" units="Hz" />
+    <dataset id="0" dimensions="2">
+      <point frame="5232000" value="1000" duration="57600" extent="3000" label="predicted" />
+      <point frame="5299200" value="1000" duration="57600" extent="3000" label="predicted" />
+      <point frame="5366400" value="1000" duration="57600" extent="3000" label="predicted" />
+      <point frame="5635200" value="1000" duration="48000" extent="3000" label="predicted" />
+      <point frame="5702400" value="1000" duration="48000" extent="3000" label="predicted" />
+      <point frame="5760000" value="1000" duration="57600" extent="3000" label="predicted" />
+      <point frame="5836800" value="1000" duration="48000" extent="3000" label="predicted" />
+      <point frame="5894400" value="1000" duration="57600" extent="3000" label="predicted" />
+      <point frame="5961600" value="1000" duration="57600" extent="3000" label="predicted" />
+      <point frame="6028800" value="1000" duration="57600" extent="3000" label="predicted" />
+      <point frame="6096000" value="1000" duration="48000" extent="3000" label="predicted" />
+      <point frame="6153600" value="1000" duration="57600" extent="3000" label="predicted" />
+      <point frame="6230400" value="1000" duration="48000" extent="3000" label="predicted" />
+      <point frame="6297600" value="1000" duration="48000" extent="3000" label="predicted" />
+      <point frame="6364800" value="1000" duration="48000" extent="3000" label="predicted" />
+      <point frame="6422400" value="1000" duration="57600" extent="3000" label="predicted" />
+      <point frame="8899200" value="1000" duration="48000" extent="3000" label="predicted" />
+      <point frame="8966400" value="1000" duration="48000" extent="3000" label="predicted" />
+      <point frame="9100800" value="1000" duration="57600" extent="3000" label="predicted" />
+      <point frame="9235200" value="1000" duration="57600" extent="3000" label="predicted" />
+      <point frame="9292800" value="1000" duration="67200" extent="3000" label="predicted" />
+      <point frame="9360000" value="1000" duration="57600" extent="3000" label="predicted" />
+      <point frame="9696000" value="1000" duration="57600" extent="3000" label="predicted" />
+      <point frame="9897600" value="1000" duration="48000" extent="3000" label="predicted" />
+      <point frame="9974400" value="1000" duration="48000" extent="3000" label="predicted" />
+      <point frame="10032000" value="1000" duration="48000" extent="3000" label="predicted" />
+      <point frame="12019200" value="1000" duration="48000" extent="3000" label="predicted" />
+      <point frame="12220800" value="1000" duration="48000" extent="3000" label="predicted" />
+      <point frame="29260800" value="1000" duration="48000" extent="3000" label="predicted" />
+      <point frame="29760000" value="1000" duration="67200" extent="3000" label="predicted" />
+      <point frame="29942400" value="1000" duration="48000" extent="3000" label="predicted" />
+      <point frame="30000000" value="1000" duration="67200" extent="3000" label="predicted" />
+      <point frame="30105600" value="1000" duration="57600" extent="3000" label="predicted" />
+      <point frame="30374400" value="1000" duration="76800" extent="3000" label="predicted" />
+      <point frame="30508800" value="1000" duration="48000" extent="3000" label="predicted" />
+      <point frame="30585600" value="1000" duration="48000" extent="3000" label="predicted" />
+      <point frame="31027200" value="1000" duration="57600" extent="3000" label="predicted" />
+      <point frame="32179200" value="1000" duration="86400" extent="3000" label="predicted" />
+      <point frame="32515200" value="1000" duration="76800" extent="3000" label="predicted" />
+      <point frame="32640000" value="1000" duration="96000" extent="3000" label="predicted" />
+      <point frame="32832000" value="1000" duration="48000" extent="3000" label="predicted" />
+      <point frame="32928000" value="1000" duration="115200" extent="3000" label="predicted" />
+      <point frame="33168000" value="1000" duration="105600" extent="3000" label="predicted" />
+      <point frame="33283200" value="1000" duration="76800" extent="3000" label="predicted" />
+      <point frame="33379200" value="1000" duration="105600" extent="3000" label="predicted" />
+      <point frame="33475200" value="1000" duration="86400" extent="3000" label="predicted" />
+      <point frame="33676800" value="1000" duration="96000" extent="3000" label="predicted" />
+      <point frame="34051200" value="1000" duration="96000" extent="3000" label="predicted" />
+      <point frame="34272000" value="1000" duration="115200" extent="3000" label="predicted" />
+      <point frame="34396800" value="1000" duration="57600" extent="3000" label="predicted" />
+      <point frame="34531200" value="1000" duration="105600" extent="3000" label="predicted" />
+      <point frame="34713600" value="1000" duration="163200" extent="3000" label="predicted" />
+      <point frame="34905600" value="1000" duration="48000" extent="3000" label="predicted" />
+      <point frame="34992000" value="1000" duration="96000" extent="3000" label="predicted" />
+      <point frame="35174400" value="1000" duration="115200" extent="3000" label="predicted" />
+      <point frame="35337600" value="1000" duration="115200" extent="3000" label="predicted" />
+      <point frame="35520000" value="1000" duration="105600" extent="3000" label="predicted" />
+      <point frame="35712000" value="1000" duration="115200" extent="3000" label="predicted" />
+      <point frame="35846400" value="1000" duration="115200" extent="3000" label="predicted" />
+      <point frame="36019200" value="1000" duration="134400" extent="3000" label="predicted" />
+      <point frame="36201600" value="1000" duration="96000" extent="3000" label="predicted" />
+      <point frame="36278400" value="1000" duration="115200" extent="3000" label="predicted" />
+      <point frame="36518400" value="1000" duration="115200" extent="3000" label="predicted" />
+      <point frame="36758400" value="1000" duration="124800" extent="3000" label="predicted" />
+      <point frame="36960000" value="1000" duration="124800" extent="3000" label="predicted" />
+      <point frame="37142400" value="1000" duration="153600" extent="3000" label="predicted" />
+      <point frame="37344000" value="1000" duration="163200" extent="3000" label="predicted" />
+      <point frame="37507200" value="1000" duration="67200" extent="3000" label="predicted" />
+      <point frame="37651200" value="1000" duration="124800" extent="3000" label="predicted" />
+      <point frame="37795200" value="1000" duration="172800" extent="3000" label="predicted" />
+      <point frame="37977600" value="1000" duration="192000" extent="3000" label="predicted" />
+      <point frame="38150400" value="1000" duration="268800" extent="3000" label="predicted" />
+      <point frame="38534400" value="1000" duration="144000" extent="3000" label="predicted" />
+      <point frame="38822400" value="1000" duration="115200" extent="3000" label="predicted" />
+      <point frame="38928000" value="1000" duration="48000" extent="3000" label="predicted" />
+      <point frame="39024000" value="1000" duration="124800" extent="3000" label="predicted" />
+    </dataset>
+  </data>
+  <display>
+    <layer id="2" type="boxes" name="Boxes" model="1"  verticalScale="0"  colourName="White" colour="#ffffff" darkBackground="true" />
+  </display>
+</sv>
